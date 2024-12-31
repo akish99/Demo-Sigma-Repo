@@ -1,2 +1,2 @@
 # Demo-Sigma-Repo
-This repo was created just for practise purpose.
+This Repo was created just for Practise Purpose.
